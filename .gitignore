@@ -1,0 +1,12 @@
+# WebView2 cache directories
+*.WebView2/
+
+# Compiled executables (keep distribution versions)
+*.obj
+*.o
+*.pdb
+*.ilk
+
+# Temporary files
+*.log
+*.tmp
